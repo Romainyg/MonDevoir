@@ -1,0 +1,73 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 0
+    path: Assets/Scenes/SampleScene.unity
+    guid: 99c9720ab356a0642a771bea13969a05
+  - enabled: 1
+    path: Assets/Scenes/MainMenu.unity
+    guid: b5d473386c24bf64985074ce2230b62d
+  - enabled: 1
+    path: Assets/Scenes/Lvl/Lvl1/Level1.unity
+    guid: 3680a0efce0b6954eaa09f1c008151b9
+  - enabled: 1
+    path: Assets/Scenes/Lvl/Lvl2/Level2.unity
+    guid: 6508489103847f045b0b1f0d031a7d29
+  - enabled: 1
+    path: Assets/Scenes/Lvl/Lvl3/Level3.unity
+    guid: 19ce552cc9614d6458e2d0e3887ce07d
+  - enabled: 1
+    path: Assets/Scenes/LevelCamp.unity
+    guid: f1d3c6d3df950ed46b5d26e19921eb5a
+  - enabled: 1
+    path: Assets/Scenes/Lvl/Lvl4/Level4.unity
+    guid: 18dd22afab5a8bc489fb7cb0e2ca4b1f
+  - enabled: 1
+    path: Assets/Scenes/Shoop.unity
+    guid: 6b4880f361c084e479b231f1729d2640
+  - enabled: 1
+    path: Assets/Scenes/Lvl/Lvl4/Level4Dur.unity
+    guid: c36244a903a650147969a5ab9e5443e9
+  - enabled: 1
+    path: Assets/Scenes/Lvl/Lvl4/Level4Moyen.unity
+    guid: a10257e046921274f9fc420b94121ef2
+  - enabled: 1
+    path: Assets/Scenes/DeathMenu.unity
+    guid: 6f10911acc2059b4fa75be20bed0ea03
+  - enabled: 1
+    path: Assets/Scenes/VitoryMenu.unity
+    guid: e2488f8981c297347b028a7e56b83e9f
+  - enabled: 1
+    path: Assets/Scenes/LastLevel.unity
+    guid: 72ff64c733a6fe04db0ead81c4f90272
+  - enabled: 1
+    path: Assets/Scenes/Lvl/Lvl1/Level1Dur.unity
+    guid: 6c1c6c9d65cc44942ae225453521dd9f
+  - enabled: 1
+    path: Assets/Scenes/Lvl/Lvl1/Level1Moyen.unity
+    guid: 1d992288e1807774cb00d7eb97dfaa7f
+  - enabled: 1
+    path: Assets/Scenes/Lvl/Lvl3/Level3Dur.unity
+    guid: 8a681d57e8f4c5a4b8a25ddd52b69715
+  - enabled: 1
+    path: Assets/Scenes/Lvl/Lvl3/Level3Moyen.unity
+    guid: e8e7efa49aa9b00459175f40ec21ecb5
+  - enabled: 1
+    path: Assets/Scenes/Lvl/Lvl2/Level2Dur.unity
+    guid: 882accaef7ff5aa4eba4df868d7a237f
+  - enabled: 1
+    path: Assets/Scenes/Lvl/Lvl2/Level2Moyen.unity
+    guid: 0b58c8ce9b34d82489967272fe235e78
+  - enabled: 1
+    path: Assets/Scenes/BossLevel.unity
+    guid: efa0f038041f54446b91f857c54bac2a
+  - enabled: 1
+    path: Assets/Scenes/MenuTuto.unity
+    guid: 0d5fcca0629d56e4181704bbe8cc7df2
+  m_configObjects:
+    com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 052faaac586de48259a63d0c4782560b, type: 3}
+  m_UseUCBPForAssetBundles: 0
