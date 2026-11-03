@@ -1,6 +1,6 @@
 # ReadMe
 ## Présentation
-Role Boll est un jeu dans lequel le joueur contrôle une balle et explore une mine mystérieuse à la recherche de ressources.
+Roll a Boll est un jeu dans lequel le joueur contrôle une balle et explore une mine mystérieuse à la recherche de ressources.
 Chaque niveau propose différents obstacles et défis. Le joueur doit choisir entre poursuivre son exploration pour récolter davantage de richesses ou retourner au camp pour mettre ses gains en sécurité.
 En cas de mort, toutes les ressources non déposées dans le coffre sont perdues.
 ## Objectif
