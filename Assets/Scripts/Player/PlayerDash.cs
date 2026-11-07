@@ -34,8 +34,7 @@ public class PlayerDash : MonoBehaviour
     {
         if (gameManager.numberOfDashes > 0)
         {
-            Vector3 direction = new Vector3
-            (Input.GetAxisRaw("Horizontal"), 0f, Input.GetAxisRaw("Vertical")).normalized;
+            Vector3 direction = new Vector3(Input.GetAxisRaw("Horizontal"), 0f, Input.GetAxisRaw("Vertical")).normalized;
 
             if (direction.magnitude > 0)
             {
